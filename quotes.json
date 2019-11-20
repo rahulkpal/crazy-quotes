@@ -136,5 +136,491 @@
     "character": "Yoda",
     "spokeIn": "Star Wars",
     "type": "Movie"
+  },
+  {
+    "quote": "You may dispense with the pleasantries, Commander. I am here to put you back on schedule.",
+    "character": "Darth Vader",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Women always figure out the truth. Always.",
+    "character": "Han Solo",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Many of the truths that we cling to depend on our point of view.",
+    "character": "Obi Wan",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Your focus determines your reality.",
+    "character": "Qui-Gon Jinn",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "When 900 years old, you reach… Look as good, you will not.",
+    "character": "Yoda",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Aren’t you a little short for a stormtrooper?",
+    "character": "Leia Organa",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Oh my. Space travel sound rather perilous. I can assure you they will never get me on one of those dreadful Star Ships.",
+    "character": "C-3PO",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Traveling through hyperspace ain’t like dusting crops, farm boy.",
+    "character": "Han Solo",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "She may not look like much, but she’s got it where it counts, kid.",
+    "character": "Han Solo",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Judge me by my size, do you?",
+    "character": "Yoda",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "One thing’s for sure, we’re all going to be a lot thinner.",
+    "character": "Han Solo",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Someone has to save our skins. Into the garbage chute, fly boy.",
+    "character": "Leia Organa",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "When you look at the dark side, careful you must be… for the dark side looks back.",
+    "character": "Yoda",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Great shot kid, that was one in a million.",
+    "character": "Han Solo",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "I’m standing by as you requested, although there’s a problem on the horizon. There’s no horizon.",
+    "character": "K-2SO",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "The force is strong with this one.",
+    "character": "Darth Vader",
+    "spokeIn": "Star Wars",
+    "type": "Movie"
+  },
+  {
+    "quote": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.",
+    "character": "Tyrion Lannister",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "There is only one thing we say to death: Not today.",
+    "character": "Syrio Forel",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "If you think this has a happy ending, you haven’t been paying attention.",
+    "character": "Ramsay Gordon",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "That’s what I do: I drink and I know things.",
+    "character": "Tyrion Lannister",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Chaos isn’t a pit. Chaos is a ladder. Many who try to climb it fail, and never get to try again.",
+    "character": "Littlefinger",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Tell Cersei. I want her to know it was me.",
+    "character": "Olenna Tyrell",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "You know nothing, Jon Snow.",
+    "character": "Ygritte",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "The man who passes the sentence should swing the sword.",
+    "character": "Ned Stark",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "A Lannister always pays his debts.",
+    "character": "Lannisters",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Power resides where men believe it resides. It's a trick; a shadow on the wall.",
+    "character": "Lord Varys",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "If I fall, don't bring me back.",
+    "character": "Jon Snow",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Hold the door!",
+    "character": "Hodor",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey.",
+    "character": "Arya Stark",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "A lion doesn’t concern himself with the opinions of a sheep.",
+    "character": "Tywin Lannister",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Leave one wolf alive and the sheep are never safe.",
+    "character": "Arya Stark",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "There’s a beast in every man, and it stirs when you put a sword in his hand.",
+    "character": "Jorah Mormont",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "The freedom to make my own mistakes was all I ever wanted.",
+    "character": "Mance Rayder",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "A man with no motive is a man no one suspects. Always keep your foes confused.",
+    "character": "Littlefinger",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Any man who must say ‘I am the king’ is no true king.",
+    "character": "Tywin Lannister",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "The night is dark and full of terrors",
+    "character": "Melisandre",
+    "spokeIn": "Game of Thrones",
+    "type": "TV"
+  },
+  {
+    "quote": "Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "That's no reason to cry. One cries because one is sad. For example, I cry because others are stupid, and that makes me sad.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Knock! Knock! Knock! Penny!",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I'm exceedingly smart. I graduated college at fourteen. While my brother was getting an STD, I was getting a Ph.D. Penicillin can't take this away.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Thankfully all the things my girlfriend used to do can be taken care of with my right hand.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Don't be silly, I'm a fan of anything that tries to replace actual human contact.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "The X-men were named for the X in Charles Xavier. Since I am Sheldon Cooper, you will be my C-men.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Oh gravity, thou art a heartless bitch.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I am not crazy, my mother had me tested.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "The correct animal for inter-species super soldier is the koala. You would wind up with an army so cute, it couldn't be attacked.",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "A neutron walks into a bar and asks how much for a drink. The bartender replies \"for you, no charge\".",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Well, well, well, if it isn't Wil Wheaton. The Green Goblin to my Spider-Man, the Pope Paul V to my Galileo, the Internet Explorer to my Firefox!",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "What exactly does that expression mean, 'friends with benefits?' Does he provide her with health insurance?",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Oh Mario, if only I could control everyone the way I control you. Hop, you little plumber. Hop, hop hop!",
+    "character": "Dr. Sheldon Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I gave you one job! Keep an eye on him. How hard is that?",
+    "character": "Dr. Amy Farah Fowler",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Gosh, Amy. I'm sensing a little hostility. Is it maybe because like Sheldon's work, your sex life is also theoretical?",
+    "character": "Bernadette Rostenkowski",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I'm with him three years, nothing. She's with him two minutes and he's taking his pants off.",
+    "character": "Dr. Amy Farah Fowler",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I love him, but if he's broken, let's not get a new one.",
+    "character": "Penny",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Do you have any idea how hard it is to laugh at a knock knock joke that starts \"Knock Knock Knock, Amy. Knock Knock Knock, Amy. Knock Knock Knock, Amy\"?",
+    "character": "Dr. Amy Farah Fowler",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "If it's \"creepy\" to use the Internet, military satellites, and robot aircraft to find a house full of gorgeous young models so I can drop in on them unexpected, then fine, I'm \"creepy\".",
+    "character": "Howard Wolowitz",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Now, when you said on the phone he broke up with a girl, you meant an actual girl? Not something you kids whipped up in a lab?",
+    "character": "Mary Cooper",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I'm a horny engineer, Leonard. I never joke about math or sex.",
+    "character": "Howard Wolowitz",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "People get things they don't deserve all the time. Like me with you.",
+    "character": "Dr. Leonard Hofstadter",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Penny. We are made of particles that have existed since the moment the universe began. I like to think those atoms traveled fourteen billion years through time and space to create us, so that we could be together and make each other whole.",
+    "character": "Dr. Leonard Hofstadter",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Sheldon's escaped and he's terrorizing the village.",
+    "character": "Dr. Leonard Hofstadter",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I'm not sure it's a good idea to take Penny to where wine comes from.",
+    "character": "Dr. Leonard Hofstadter",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "I'm the king of foreplay.",
+    "character": "Dr. Leonard Hofstadter",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "Top of her class, Cambridge University. Licensed to practice law in three countries. And your face.",
+    "character": "Dr. Leonard Hofstadter",
+    "spokeIn": "The Big Bang Theory",
+    "type": "TV"
+  },
+  {
+    "quote": "We were on a break!",
+    "character": "Ross Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Joey doesn’t share food!",
+    "character": "Joey Tribbiani",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Hi, I’m Chandler. I make jokes when I’m uncomfortable.",
+    "character": "Chandler Bing",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "I wish I could, but I don’t want to.",
+    "character": "Phoebe Buffay",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Pivot!",
+    "character": "Ross Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "This is all a moo point.",
+    "character": "Joey Tribbiani",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "How you doin'?",
+    "character": "Joey Tribbiani",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "They don’t know that we know they know we know.",
+    "character": "Phoebe Buffay",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Come on, Ross, you’re a paleontologist. Dig a little deeper.",
+    "character": "Phoebe Buffay",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Seven! Seven seven seven seven!",
+    "character": "Monica Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "You’re over me? When you were … under me?",
+    "character": "Ross Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Welcome to the real world. It sucks. You're gonna love it.",
+    "character": "Monica Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Until I was 25, I thought the response to 'I love you' was 'Oh, crap.",
+    "character": "Chandler Bing",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "Unagi!",
+    "character": "Ross Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "One Mississippi! Two Mississippi! Three Mississippi!",
+    "character": "Ross Geller",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "You can't just give up! Is that what a Dinosaur would do?",
+    "character": "Joey Tribbiani",
+    "spokeIn": "Friends",
+    "type": "TV"
+  },
+  {
+    "quote": "That's right, I stepped up! She's my friend and she needed help. If I had to, I'd pee on any one of you!",
+    "character": "Joey Tribbiani",
+    "spokeIn": "Friends",
+    "type": "TV"
   }
 ]
