@@ -1,6 +1,6 @@
 {
   "name": "crazy-quotes",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Quotes you find here are from the best-loved characters in the motion pictures history!",
   "main": "app.js",
   "scripts": {
@@ -20,8 +20,8 @@
   ],
   "author": "Rahul K Pal <rahulpal.dav@gmail.com> (https://vicky724.github.io/bio/)",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/vicky724/crazy-quotes.git"
+    "type": "git",
+    "url": "https://github.com/vicky724/crazy-quotes.git"
   },
   "license": "ISC"
 }
